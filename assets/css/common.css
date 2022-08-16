@@ -2,6 +2,6 @@ body {
   background-color: #ffffff;
   color: #3c4043;
   font-family: "Noto Sans JP", serif;
-  font-feature-settings: "palt";
+  font-feature-settings: initial;
   line-height: 1.5;
 }
