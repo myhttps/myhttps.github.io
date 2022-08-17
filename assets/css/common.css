@@ -48,3 +48,27 @@ h2 {
   font-size: 20px;
   font-weight: 700;
 }
+
+.link {}
+.link a {
+  display: inline-block;
+  color: #3367d6;
+  font-size: 120%;
+  text-decoration: none;
+  position: relative;
+  transition: 0.3s;
+}
+.link a::after {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	content: '';
+	width: 0;
+	height: 1px;
+	background-color: #ee2d7b;
+	transition: 0.3s;
+	transform: translateX (-50%);
+}
+.link a:hover::after {
+	width: 100%;
+}
