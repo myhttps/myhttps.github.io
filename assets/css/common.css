@@ -5,7 +5,7 @@ body {
   line-height: 1.5;
 }
 * {
-  cursor: url(/assets/images/cursor.png),auto;
+  cursor: url(/assets/images/cursors/arrow.png),auto;
 }
 
 /* HEADER
