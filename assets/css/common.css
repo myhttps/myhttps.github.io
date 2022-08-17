@@ -11,18 +11,23 @@ body {
 header {
   width: 100%;
   background-color: #dfffff;
+  list-style: none;
+  padding-left: 0;
 }
 header .global-nav {
+  overflow: hidden;
   margin: 0 auto;
   width: 100%;
   max-width: 1000px;
 }
 header h1 {
+  float: left;
   margin: 22px 0 0;
   font-size: 1.4rem;
   font-weight: 700;
 }
 header ul {
+  float: right;
   margin: 28px 0;
   font-size: 0.9rem;
   font-weight: 500;
