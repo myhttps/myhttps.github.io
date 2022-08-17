@@ -63,13 +63,12 @@ h2 {
 .link a::after {
   position: absolute;
   bottom: 0;
-  left: 50%;
+  left: 0;
   content: '';
   width: 0;
   height: 1px;
-  background-color: #ee2d7b;
+  background-color: #3367d6;
   transition: 0.3s;
-  transform: translateX (-50%);
 }
 .link a:hover::after {
   width: 100%;
