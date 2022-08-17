@@ -10,7 +10,6 @@ body {
 header {
   width: 100%;
   background-color: #dfffff;
-  padding-left: 0;
 }
 header .global-nav {
   overflow: hidden;
@@ -32,6 +31,7 @@ header ul {
 }
 header ul li {
   list-style: none;
+  padding-left: 0;
   float: left;
   margin-right: 40px;
 }
