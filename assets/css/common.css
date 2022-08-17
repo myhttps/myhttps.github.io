@@ -73,3 +73,29 @@ h2 {
 .link a:hover::after {
   width: 100%;
 }
+
+/* TEST
+------------------------ */
+.sample_link18 {}
+.sample_link18 a {
+  display: inline-block;
+  color: #ee2d7b;
+  font-size: 120%;
+  text-decoration: none;
+  position: relative;
+  transition: .3s;
+}
+.sample_link18 a::after {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	content: '';
+	width: 0;
+	height: 1px;
+	background-color: #ee2d7b;
+	transition: .3s;
+	transform: translateX(-50%);
+}
+.sample_link18 a:hover::after {
+	width: 100%;
+}
