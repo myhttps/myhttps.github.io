@@ -12,10 +12,27 @@ header {
   width: 100%;
   background-color: #dfffff;
 }
-header .global-nav{
+header .global-nav {
   margin: 0 auto;
   width: 100%;
   max-width: 1000px;
+}
+header h1 {
+  margin: 22px 0 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+header ul {
+  margin: 28px 0;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+header ul li {
+  float: left;
+  margin-right: 40px;
+}
+header ul li:last-child {
+  margin-right: 0;
 }
 
 /* HEADING
