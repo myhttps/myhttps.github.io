@@ -22,12 +22,12 @@ header {
   box-sizing: border-box;
 }
 
-header .global-nav-menu ul {
+header ul .global-nav-menu {
   list-style: none;
   display: flex;
 }
 
-header .global-nav-menu ul li {
+header ul .global-nav-menu li {
   padding: 10px 15px;
 }
 
