@@ -12,27 +12,27 @@ header {
   width: 100%;
   height: 100px;
   background-color: #dfffff;
-  padding-left: 30px;
-  padding-right: 30px;
-  box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
   position: fixed;
   top: 0;
+  box-sizing: border-box;
 }
 
-header .global-nav-menu {
+header .global-nav-menu ul {
   list-style: none;
   display: flex;
 }
 
-header .global-nav-menu li {
+header .global-nav-menu ul li {
   padding: 10px 15px;
 }
 
 /* HEADING
-------------------------
+------------------------ */
 h1 {
   font-size: 28px;
   font-weight: 900;
@@ -50,4 +50,4 @@ a {
 
 a:hover {
   text-decoration: underline;
-} */
+}
