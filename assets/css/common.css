@@ -32,7 +32,7 @@ header .global-nav-menu li {
 }
 
 /* HEADING
------------------------- */
+------------------------
 h1 {
   font-size: 28px;
   font-weight: 900;
@@ -50,4 +50,4 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
+} */
