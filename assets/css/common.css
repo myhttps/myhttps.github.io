@@ -6,7 +6,7 @@ body {
   color: #3c4043;
   font-family: "Noto Sans JP", serif;
   font-feature-settings: initial;
-  line-height: 1.5;
+  line-height: 2.0;
 }
 
 body a {
@@ -36,9 +36,6 @@ body a:hover {
 body #main-content h1 {
   font-size: 28px;
   font-weight: 900;
-  vertical-align: middle;
-  display: inline-block;
-  height: 5em;
 }
 
 body #main-content h2 {
