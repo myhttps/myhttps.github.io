@@ -55,7 +55,8 @@ a {
 }
 
 a[target="_blank"]::after {
-  content: '<span class="material-icons-outlined">open_in_new</span>'
+  font-family: "Material Icons Outlined", serif;
+  content: 'open_in_new';
 }
 
 a:hover {
