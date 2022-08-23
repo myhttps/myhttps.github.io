@@ -37,6 +37,7 @@ h1 {
   font-size: 28px;
   font-weight: 900;
   vertical-align: middle;
+  display: inline-block;
   height: 5em;
 }
 
