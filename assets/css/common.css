@@ -54,6 +54,10 @@ a {
   text-decoration: none;
 }
 
+a[target="_blank"]::after {
+  content: '<span class="material-icons-outlined">open_in_new</span>'
+}
+
 a:hover {
   text-decoration: underline;
 }
