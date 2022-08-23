@@ -1,6 +1,4 @@
 body {
-  margin: 0;
-  padding: 0;
   color: #3c4043;
   font-family: "Noto Sans JP", serif;
   font-feature-settings: initial;
@@ -10,24 +8,27 @@ body {
 ------------------------ */
 header {
   width: 100%;
-  height: 100px;
+  height: 76px;
   background-color: #dfffff;
+  position: relative;
+  top: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-left: 30px;
-  padding-right: 30px;
-  position: fixed;
-  top: 0;
-  box-sizing: border-box;
 }
 
-header ul .global-nav-menu {
+header .global-navi h1 {
+  height: 48px;
+}
+
+header .global-navi nav ul li a {
+  height: 48px;
+  font-weight: 900;
   list-style: none;
   display: flex;
-}
-
-header ul .global-nav-menu li {
   padding: 10px 15px;
 }
 
