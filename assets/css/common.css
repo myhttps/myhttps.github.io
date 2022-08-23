@@ -57,7 +57,7 @@ a {
 a[target="_blank"]::after {
   font-family: "Material Icons Outlined", serif;
   content: 'open_in_new';
-  text-align: center;
+  top: 50px;
 }
 
 a:hover {
