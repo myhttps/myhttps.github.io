@@ -8,6 +8,9 @@ body {
   font-feature-settings: initial;
   line-height: 2.0;
   margin-bottom: 100px;
+  display: flex;
+  flex-flow: column;
+  min-height: 100vh;
 }
 
 body a {
@@ -37,6 +40,7 @@ body del {
 body #main-content {
   width: 70%;
   margin: 0 auto;
+  flex: 1;
 }
 
 /* HEADER
