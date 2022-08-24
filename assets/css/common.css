@@ -4,7 +4,7 @@
 
 body {
   color: #3c4043;
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans JP', serif;
   font-feature-settings: initial;
   line-height: 2.0;
 }
@@ -14,7 +14,7 @@ body a {
   color: #3367d6;
 }
 body a[target="_blank"]:after {
-  font-family: "Material Icons Outlined", sans-serif;
+  font-family: 'Material Icons Outlined', serif;
   content: 'open_in_new';
 }
 body a:hover {
