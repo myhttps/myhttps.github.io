@@ -14,7 +14,7 @@ body a {
   color: #3367d6;
 }
 body a[target="_blank"]:after {
-  font-family: "Material Icons Outlined", serif;
+  font-family: "Material Icons Outlined", sans-serif;
   content: 'open_in_new';
 }
 body a:hover {
