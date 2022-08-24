@@ -19,7 +19,7 @@ header #global-navi {
     padding-bottom: 0;
   }
 }
-@media (min-width: 600px) {
+/*@media (min-width: 600px) {
   .global-navi-menu {
     display: flex;
   }
@@ -38,7 +38,7 @@ header #global-navi {
     transform: translateY(-100%);
     transition: transform 0.3s ease-out, opacity 0.3s ease-out;
   }
-}
+}*/
 
 header #global-navi nav ul li.navi_item a {
   display: block;
