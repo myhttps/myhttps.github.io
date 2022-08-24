@@ -29,6 +29,10 @@ body strong {
   font-weight: 700;
 }
 
+body #main-content {
+  background-color: #dfffff;
+}
+
 /* HEADER
 --------------------- */
 #global-navi {
