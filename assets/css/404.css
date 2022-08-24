@@ -1,3 +1,7 @@
+#main-content {
+  display: table;
+}
+
 #main-content h1, #main-content p {
   text-align: center;
   display: table-cell;
