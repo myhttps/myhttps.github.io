@@ -1,9 +1,5 @@
-#main-content {
-  display: table-cell;
-  vertical-align: middle;
-}
-
 #main-content h1, #main-content p {
   text-align: center;
-  vertical-align: center;
+  display: table-cell;
+  vertical-align: middle;
 }
