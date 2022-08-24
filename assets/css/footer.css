@@ -15,11 +15,11 @@ footer {
   background: #efefef;
 }
 
-footer p {
+footer small {
   margin: 0;
   padding: 20px 0 0 0;
 }
 
-footer p .footer-copyright {
+footer small .footer-copyright {
   font-family: 'Chakra Petch', serif;
 }
