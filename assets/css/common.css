@@ -38,6 +38,12 @@ body #main-content {
   margin: 0 auto;
 }
 
+@media (max-width: 750px;) {
+  .pc {
+    display: none;
+  }
+}
+
 /* HEADER
 --------------------- */
 #global-navi {
