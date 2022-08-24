@@ -1,6 +1,7 @@
 #main-content {
   position: relative;
   text-align: center;
+  height: 200px;
 }
 
 #main-content p {
