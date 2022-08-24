@@ -32,6 +32,7 @@ body strong {
 body #main-content {
   background-color: #dfffff;
   width: 80%;
+  margin: 0 auto;
 }
 
 /* HEADER
