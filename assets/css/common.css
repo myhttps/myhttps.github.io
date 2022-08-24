@@ -21,6 +21,14 @@ body a:hover {
   text-decoration: underline;
 }
 
+em {
+  font-style: italic;
+}
+
+strong {
+  font-style: bold;
+}
+
 /* HEADER
 --------------------- */
 #global-navi {
