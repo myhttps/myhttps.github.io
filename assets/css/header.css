@@ -25,7 +25,7 @@ header #global-navi {
   }
 }
 
-*/@media (max-width: 599px) {
+/*@media (max-width: 599px) {
   .global-navi-menu {
     position: absolute;
     top: 100%;
