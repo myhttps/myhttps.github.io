@@ -29,6 +29,10 @@ body strong {
   font-weight: 700;
 }
 
+body del {
+  text-decoration: line-through;
+}
+
 body #main-content {
   width: 70%;
   margin: 0 auto;
