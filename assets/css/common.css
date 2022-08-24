@@ -38,7 +38,7 @@ body #main-content {
   margin: 0 auto;
 }
 
-@media (max-width: 750px;) {
+@media (max-width: 599px;) {
   .pc {
     display: none;
   }
