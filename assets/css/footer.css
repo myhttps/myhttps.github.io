@@ -1,9 +1,16 @@
 footer {
-  background-color: #efefef;
+/*background-color: #efefef;
   text-align: center;
   padding: 30px;
   position: absolute;
-  buttom: 0;
+  buttom: 0;*/
+
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  left: 0;
+  width: 100%;
+  background: #efefef;
 }
 
 footer p {
