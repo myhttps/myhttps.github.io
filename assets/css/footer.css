@@ -1,0 +1,14 @@
+footer {
+ background-color: #efefef;
+ text-align: center;
+ padding: 30px;
+}
+
+footer p {
+ margin: 0;
+ padding: 20px 0 0 0;
+}
+
+footer p .footer-copyright {
+  font-family: "Chakra Petch", serif;
+}
