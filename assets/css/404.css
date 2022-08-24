@@ -1,5 +1,3 @@
-#main-content #not-found {
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
+#main-content h1, #main-content p {
+  text-align: center;
 }
