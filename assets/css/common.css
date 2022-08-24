@@ -29,10 +29,6 @@ body strong {
   font-weight: 700;
 }
 
-body #main-content ol, body #main-content ul {
-  list-style: inside;
-}
-
 /* HEADER
 --------------------- */
 #global-navi {
