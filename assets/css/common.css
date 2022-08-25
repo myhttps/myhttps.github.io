@@ -64,6 +64,10 @@ body #main-content {
   background-color: #bbbbbb;
 }
 
+.center {
+  text-align: center;
+}
+
 /* HEADER
 --------------------- */
 #global-navi {
