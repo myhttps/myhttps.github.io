@@ -38,7 +38,7 @@ body #main-content {
   margin: 0 auto;
 }
 
-.button10 a {
+.button-default a {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -53,7 +53,6 @@ body #main-content {
   border-radius: 50vh;
   transition: 0.3s;
 }
-
 .button-default a::before {
   content: '';
   position: absolute;
