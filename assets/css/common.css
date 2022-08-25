@@ -38,6 +38,17 @@ body #main-content {
   margin: 0 auto;
 }
 
+a.button-default {
+  border: 2px solid #000000;
+  border-radius: 0;
+  background-color: #ffffff;
+}
+
+a.button-default:hover {
+  color: #ffffff;
+  background-color: #000000;
+}
+
 /* HEADER
 --------------------- */
 #global-navi {
