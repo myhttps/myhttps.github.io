@@ -1,6 +1,5 @@
 *, *:before, *:after {
   box-sizing: border-box;
-  padding-bottom: 4px;
 }
 
 body {
@@ -8,6 +7,10 @@ body {
   font-family: 'Noto Sans JP', serif;
   font-feature-settings: initial;
   line-height: 1.5;
+}
+
+body p {
+  padding-bottom: 8px;
 }
 
 body a {
