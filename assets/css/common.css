@@ -42,6 +42,10 @@ body #main-content {
   margin: 0 auto;
 }
 
+body #main-content ul li {
+  list-style: inside;
+}
+
 .home-center {
   width: 100%;
   margin: 0 auto;
