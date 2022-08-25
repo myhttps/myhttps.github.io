@@ -42,13 +42,13 @@ body #main-content {
   margin: 0 auto;
 }
 
-.center {
+.home-center {
   width: 100%;
   margin: 0 auto;
   max-width: 600px;
 }
-.center h2 {
-  padding-top: 20px;
+.home-center h2 {
+  padding-top: 80px;
 }
 
 .button-default {
