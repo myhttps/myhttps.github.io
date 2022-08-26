@@ -126,6 +126,7 @@ body #main-content h2 {
   font-size: 24px;
   font-weight: 700;
   padding: 4px;
+  margin-top: 8px;
   margin-bottom: 32px;
   border-bottom: 3px dashed #008eff;
 }
