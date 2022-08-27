@@ -54,6 +54,10 @@ body #page {
   box-sizing: border-box;
 }
 
+body #not-found h1, body #not-found p {
+  text-align: center;
+}
+
 .home-center {
   width: 100%;
   margin: 0 auto;
