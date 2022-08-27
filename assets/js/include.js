@@ -1,3 +1,4 @@
-$(() => {
-    $("#footer").load("/assets/html/footer.html");
+$(function(){
+  $.ajaxSetup({cache:false});
+  $("footer").load("https://myhttps.github.io/assets/html/footer.html");
 });
