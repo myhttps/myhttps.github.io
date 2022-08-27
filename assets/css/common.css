@@ -47,6 +47,13 @@ body #main-content ul li {
   list-style: inside;
 }
 
+body #page {
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 100px;
+  box-sizing: border-box;
+}
+
 .home-center {
   width: 100%;
   margin: 0 auto;
