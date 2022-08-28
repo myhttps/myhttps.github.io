@@ -9,9 +9,9 @@ body {
   line-height: 1.75;
 }
 
-/*body p {
-  padding-bottom: 8px;
-}*/
+body p {
+  padding-bottom: 4px;
+}
 
 body a {
   text-decoration: none;
