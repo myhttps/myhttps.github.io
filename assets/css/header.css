@@ -27,5 +27,5 @@ header #global-navi {
 
 header #global-navi nav ul li.navi_item a {
   display: block;
-  padding: 0.4rem 1rem;
+  margin: 0.4rem 1rem;
 }
