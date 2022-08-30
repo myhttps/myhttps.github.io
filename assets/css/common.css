@@ -66,6 +66,12 @@ body .sitemap-items {
   gap: 20px;
 }
 
+body .news-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
 .home-center {
   width: 100%;
   margin: 0 auto;
