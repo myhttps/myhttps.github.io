@@ -79,8 +79,10 @@ body .news-items {
 }
 
 body .news-item {
-  height: 96px;
+  height: 144px;
   width: 100%;
+  background-color: #f7f7f7;
+  padding: 8px;
   border: 2px solid #008eff;
 }
 
