@@ -84,7 +84,7 @@ body .home-news-items {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 20px;
 }
-body .news-item {
+body .home-news-item {
   height: 64px;
   width: 100%;
   background-color: #f7f7f7;
