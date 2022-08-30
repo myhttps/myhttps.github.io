@@ -72,6 +72,18 @@ body .news-items {
   gap: 20px;
 }
 
+@media (max-width: 750px) {
+  body .news-items {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+body .news-item {
+  height: 96px;
+  width: 100%;
+  border: 2px solid #008eff;
+}
+
 .home-center {
   width: 100%;
   margin: 0 auto;
