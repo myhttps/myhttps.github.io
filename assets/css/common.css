@@ -85,7 +85,7 @@ body .news-item {
   body .news-items {
     grid-template-columns: 1fr 1fr;
   }
-  body .news-item {
+  body .news-item (max-height: 96px;) {
     height: 96px;
   }
 }
