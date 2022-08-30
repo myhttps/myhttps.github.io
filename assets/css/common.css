@@ -79,24 +79,8 @@ body .news-item {
   border: 2px solid #008eff;
   font-weight: 700;
 }
-body .home-news-items {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  gap: 20px;
-}
-body .home-news-item {
-  height: 64px;
-  width: 100%;
-  background-color: #f7f7f7;
-  padding: 8px;
-  border: 2px solid #008eff;
-  font-weight: 700;
-}
 @media (max-width: 750px) {
   body .news-items {
-    grid-template-columns: 1fr 1fr;
-  }
-  body .home-news-items {
     grid-template-columns: 1fr 1fr;
   }
   body .news-item (max-height: 96px;) {
