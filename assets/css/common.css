@@ -66,6 +66,10 @@ body .sitemap-items {
   gap: 20px;
 }
 
+body .space {
+  margin-bottom: 32px;
+}
+
 .home-center {
   width: 100%;
   margin: 0 auto;
