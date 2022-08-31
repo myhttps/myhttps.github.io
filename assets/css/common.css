@@ -12,6 +12,7 @@ body {
 
 body .directory {
   width: 73%;
+  margin: 0 auto;
   font-size: 12px;
 }
 
