@@ -11,8 +11,9 @@ body {
 }
 
 body .directory {
-  width: 73%;
+  width: 74%;
   margin: 0 auto;
+  margin-top: 16px;
   font-size: 12px;
 }
 
@@ -47,7 +48,8 @@ body del {
 
 body #main-content {
   width: 70%;
-  margin: 16px auto;
+  margin: 0x auto;
+  margin-bottom: 16px;
 }
 
 body #main-content ul li {
