@@ -42,7 +42,7 @@ body del {
 body #main-content {
   width: 70%;
   margin: 0 auto;
-  margin-bottom: 16px;
+  margin: 16px 0;
 }
 
 body #main-content ul li {
@@ -160,7 +160,7 @@ body .news-item {
 body #main-content h1 {
   font-size: 30px;
   font-weight: 900;
-  margin: 16px 0;
+  margin-bottom: 16px;
 }
 
 body #main-content h2 {
