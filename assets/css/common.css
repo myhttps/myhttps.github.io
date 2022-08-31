@@ -48,7 +48,7 @@ body del {
 
 body #main-content {
   width: 70%;
-  margin: 0x auto;
+  margin: 0 auto;
   margin-bottom: 16px;
 }
 
