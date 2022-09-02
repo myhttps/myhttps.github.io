@@ -105,18 +105,22 @@ body .news-item {
 }
 
 body .home-news:after {
+  font-weight: 400;
   font-family: 'Material Icons Outlined', serif;
   content: 'announcement';
 }
 body .home-services:after {
+  font-weight: 400;
   font-family: 'Material Icons Outlined', serif;
   content: 'miscellaneous_services';
 }
 body .home-diary:after {
+  font-weight: 400;
   font-family: 'Material Icons Outlined', serif;
   content: 'notes';
 }
 body .home-accounts:after {
+  font-weight: 400;
   font-family: 'Material Icons Outlined', serif;
   content: 'group';
 }
