@@ -100,16 +100,6 @@ body .news-item {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #202124;
-    color: #bdc1c6;
-  }
-  body a {
-    color: #8ab4f8;
-  }
-}
-
 .home-center {
   width: 100%;
   margin: 0 auto;
@@ -180,6 +170,29 @@ body .home-accounts:after {
 }
 .button-default:-webkit-details-marker {
   display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #202124;
+    color: #bdc1c6;
+  }
+  body a {
+    color: #8ab4f8;
+  }
+  .button-default {
+    border: 1px solid #5f6368;
+  }
+  .button-default:hover {
+    background-color: #24272d;
+  }
+  .button-default:disabled {
+    color: #bdc1c6;
+  }
+  .button-default:active {
+    background-color: #364051;
+    border-color: #8ab4f8;
+  }
 }
 
 /* HEADER
