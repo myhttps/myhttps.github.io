@@ -98,6 +98,13 @@ body .news-item {
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #202124;
+    color: #bdc1c6;
+  }
+}
+
 .home-center {
   width: 100%;
   margin: 0 auto;
