@@ -2,7 +2,8 @@
 --------------------- */
 header {
   position: relative;
-  background-color: #f7f7f7;
+  background-color: #ffffff;
+  border-bottom: 2px solid #dadce0;
 }
 
 header #global-navi {
