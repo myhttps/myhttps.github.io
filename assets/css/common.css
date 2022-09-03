@@ -169,8 +169,8 @@ body .home-accounts:after {
 }
 .button-default:active {
   background-color: #cfe2fa;
+  border-color: #174ea6;
   transition: 0.1s;
-/*transition: none 0s;*/
 }
 .button-default:focus {
   outline: 1px transparent;
