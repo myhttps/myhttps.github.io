@@ -6,6 +6,13 @@ header {
   border-bottom: 1px solid #dadce0;
 }
 
+@media (prefers-color-scheme: dark) {
+  header {
+    background-color: #202124;
+    border-bottom: 1px solid #5f6368;
+  }
+}
+
 header #global-navi {
   padding-top: 1rem;
   padding-bottom: 1rem;
