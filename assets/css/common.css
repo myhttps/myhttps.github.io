@@ -35,7 +35,6 @@ body a[target="_blank"]:after {
   content: 'open_in_new';
   position: absolute;
   top: 50%;
-  right: 10px;
   margin-top: -12px;
 }
 body a:hover {
