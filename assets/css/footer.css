@@ -8,6 +8,12 @@ footer {
   bottom: 0;
 }
 
+@media (prefers-color-scheme: dark) {
+  footer {
+    background-color: #303134;
+  }
+}
+
 footer small .footer-copyright {
   font-family: 'Chakra Petch', serif;
   font-weight: 700;
