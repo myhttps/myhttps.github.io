@@ -26,15 +26,10 @@ body p {
 }
 
 body a {
-  position: relative;
-  vertical-align: middle;
-
   text-decoration: none;
   color: #3367d6;
 }
 body a[target="_blank"]:after {
-  position: absolute;
-
   font-family: 'Material Icons Outlined', serif;
   content: 'open_in_new';
 }
