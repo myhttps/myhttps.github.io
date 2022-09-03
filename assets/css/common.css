@@ -169,7 +169,7 @@ body .home-accounts:after {
 }
 .button-default:active {
   background-color: #cfe2fa;
-  transition: none 0.1s;
+  transition: none 0.5s;
 }
 .button-default:focus {
   outline: 1px transparent;
