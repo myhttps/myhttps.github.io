@@ -28,12 +28,15 @@ body p {
 body a {
   text-decoration: none;
   color: #3367d6;
+  position: relative;
 }
 body a[target="_blank"]:after {
   font-family: 'Material Icons Outlined', serif;
   content: 'open_in_new';
-  display: "inline-block";
-  height: 12px;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  margin-top: -12px;
 }
 body a:hover {
   text-decoration: underline;
