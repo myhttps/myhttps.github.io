@@ -12,6 +12,7 @@ footer {
 @media (prefers-color-scheme: dark) {
   footer {
     background-color: #303134;
+    color: #e8eaed;
   }
 }
 
