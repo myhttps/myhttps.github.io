@@ -33,6 +33,7 @@ body a[target="_blank"]:after {
   font-family: 'Material Icons Outlined', serif;
   content: 'open_in_new';
   display: "inline-block";
+  height: 12px;
 }
 body a:hover {
   text-decoration: underline;
