@@ -27,7 +27,7 @@ body p {
 
 body a {
   text-decoration: none;
-  color: #3367d6;
+  color: #1a73e8;
 }
 body a[target="_blank"]:after {
   font-family: 'Material Icons Outlined', serif;
@@ -102,6 +102,9 @@ body .news-item {
   body {
     background-color: #202124;
     color: #bdc1c6;
+  }
+  body a {
+    color: #8ab4f8;
   }
 }
 
