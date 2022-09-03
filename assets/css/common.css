@@ -36,7 +36,7 @@ body a[target="_blank"]:after {
   position: absolute;
   top: 45%;
   margin-top: -12px;
-  margin-right: 14px;
+  margin-right: 64px;
 }
 body a:hover {
   text-decoration: underline;
