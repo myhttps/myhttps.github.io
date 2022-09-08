@@ -35,7 +35,7 @@ body a[target="_blank"]:after {
   font-family: 'Material Icons Outlined', serif;
   content: 'open_in_new';
   font-size: 12px;
-  padding-left: 2px;
+  margin-left: 2px;
 }
 body a:hover {
   text-decoration: underline;
@@ -112,21 +112,25 @@ body .home-news:after {
   font-weight: 400;
   font-family: 'Material Icons Outlined', serif;
   content: 'announcement';
+  font-size: 18px;
 }
 body .home-services:after {
   font-weight: 400;
   font-family: 'Material Icons Outlined', serif;
   content: 'miscellaneous_services';
+  font-size: 18px;
 }
 body .home-diary:after {
   font-weight: 400;
   font-family: 'Material Icons Outlined', serif;
   content: 'notes';
+  font-size: 18px;
 }
 body .home-accounts:after {
   font-weight: 400;
   font-family: 'Material Icons Outlined', serif;
   content: 'group';
+  font-size: 18px;
 }
 
 .button-default {
