@@ -37,7 +37,7 @@ body a[target="_blank"]:after {
   font-size: 12px;
   margin-left: 2px;
 }
-body a:hover {
+body a:hover :not(a:after) {
   text-decoration: underline;
 }
 
