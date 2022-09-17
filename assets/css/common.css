@@ -210,6 +210,10 @@ body .home-accounts:after {
   .sp {
     display: block;
   }
+  body #main-content {
+    width: 95%;
+/*  margin-bottom: 16px;*/
+  }
 }
 
 @media (prefers-color-scheme: dark) {
