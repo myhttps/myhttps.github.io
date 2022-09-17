@@ -18,9 +18,8 @@ footer .footer {
   margin: 0 auto;
 }
 
-footer .footer-menu {
+footer .footer-menu ul {
   display: flex;
-  justify-content: space-between;
 }
 
 @media (prefers-color-scheme: dark) {
