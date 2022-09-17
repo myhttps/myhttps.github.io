@@ -19,7 +19,7 @@ footer .footer {
 }
 
 footer .footer-menu {
-  display: inline-block;
+  display: flex;
 }
 
 @media (prefers-color-scheme: dark) {
