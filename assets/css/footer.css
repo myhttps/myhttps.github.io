@@ -28,6 +28,7 @@ footer .footer-menu ul li {
 footer .footer-menu ul li a {
   display: block;
   margin: auto 0.4rem;
+  color: #3c4043;
 }
 
 @media (prefers-color-scheme: dark) {
