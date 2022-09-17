@@ -78,7 +78,11 @@ body .sitemap-items {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
-
+body .policies {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
 body .news-items {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -93,6 +97,12 @@ body .news-item {
   font-weight: 700;
 }
 @media (max-width: 750px) {
+  body .sitemap-items {
+    grid-template-columns: 1fr;
+  }
+  body .policies {
+    grid-template-columns: 1fr;
+  }
   body .news-items {
     grid-template-columns: 1fr 1fr;
   }
