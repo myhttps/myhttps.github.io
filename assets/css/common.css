@@ -61,9 +61,9 @@ body #main-content {
 
 @media (max-width: 750px) {
     body #main-content {
-    width: 95%;
+    width: 90%;
     margin: 0 auto;
-    margin-bottom: 16px;
+    margin-bottom: 64px;
   }
 }
 
