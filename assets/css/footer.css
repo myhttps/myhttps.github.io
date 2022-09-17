@@ -27,7 +27,7 @@ footer .footer-menu ul li {
 
 footer .footer-menu ul li a {
   display: block;
-  margin: auto 1rem;
+  margin: auto 0.4rem;
 }
 
 @media (prefers-color-scheme: dark) {
