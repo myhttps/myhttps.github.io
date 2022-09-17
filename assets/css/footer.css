@@ -21,6 +21,10 @@ footer .footer {
   align-items: center;
 }
 
+footer .footer-menu ul li {
+  display: inline-block;
+}
+
 @media (prefers-color-scheme: dark) {
   footer {
     background-color: #303134;
