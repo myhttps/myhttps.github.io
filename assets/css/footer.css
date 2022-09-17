@@ -12,7 +12,7 @@ footer {
 }
 
 body #page {
-  padding-bottom: 48px;
+  padding-bottom: 100px;
 }
 
 @media (prefers-color-scheme: dark) {
