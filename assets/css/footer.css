@@ -30,6 +30,7 @@ footer .footer-menu ul li a {
 
 @media (max-width: 750px) {
   footer .footer {
+    width: 90%;
     display: block;
     justify-content: unset;
     align-items: unset;
