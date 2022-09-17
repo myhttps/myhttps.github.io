@@ -19,15 +19,27 @@ footer .footer {
   justify-content: space-between;
   align-items: center;
 }
-
 footer .footer-menu ul li {
   display: inline-block;
 }
-
 footer .footer-menu ul li a {
   display: block;
   margin: auto 0.4rem;
   color: #5f6368;
+}
+
+@media (max-width: 750px) {
+  footer .footer {
+    display: block;
+    justify-content: unset;
+    align-items: unset;
+  }
+  footer .footer-menu ul li a {
+    margin-top: auto;
+    margin-right: 0.4rem;
+    margin-bottom: auto;
+    margin-left: auto;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
