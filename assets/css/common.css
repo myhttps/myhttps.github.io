@@ -60,10 +60,13 @@ body #main-content {
 }
 
 @media (max-width: 750px) {
-    body #main-content {
+  body #main-content {
     width: 90%;
     margin: 0 auto;
     margin-bottom: 32px;
+  }
+  body .directory {
+    width: 90%;
   }
 }
 
