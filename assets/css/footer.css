@@ -9,13 +9,17 @@ footer {
   border-top: 1px solid #dadce0;
 }
 
+body #page {
+  padding-bottom: 64px;
+}
+
 footer .footer {
   width: 70%;
   margin: 0 auto;
 }
 
-body #page {
-  padding-bottom: 64px;
+footer .footer-menu {
+  display: inline-block;
 }
 
 @media (prefers-color-scheme: dark) {
