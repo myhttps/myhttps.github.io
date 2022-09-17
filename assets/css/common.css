@@ -189,11 +189,27 @@ body .home-accounts:after {
   display: none;
 }
 
+.pc {
+  display: block;
+}
+.sp {
+  display: none;
+}
+
 .light {
   display: block;
 }
 .dark {
   display: none;
+}
+
+@media (max-width: 750px) {
+  .pc {
+    display: none;
+  }
+  .sp {
+    display: block;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
