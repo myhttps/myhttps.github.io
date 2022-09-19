@@ -10,6 +10,13 @@
 
       gtag('config', 'G-S1H0GEXSXB');
     </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script>
+      $(function() {
+       $("#header").load("header.html");
+       $("#footer").load("https://myhttps.github.io/assets/html/footer/en.html");
+    });
+    </script>
     <meta charset='UTF-8'>
     <title>HTTP 404 - Underline Page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -80,7 +87,7 @@
         <p>Please do not report any invalid links on this site for now.</p>
       </section>
       <footer>
-        <script>footer();</script>
+        <div id="footer"></div>
       </footer>
       <!-- /footer -->
     </div>
