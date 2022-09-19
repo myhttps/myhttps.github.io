@@ -20,7 +20,7 @@ function header() {
 
 function footer() {
   $.ajax({
-      url: "/assets/html/footer/en.html",
+      url: "https://myhttps.github.io/assets/html/footer/en.html",
       cache: false,
       success: function(html){
           document.write(html);
