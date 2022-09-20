@@ -254,6 +254,10 @@ body .home-accounts:after {
   }
 }
 
+.select-none {
+  user-select: none;
+}
+
 /* HEADER
 --------------------- */
 #global-navi {
