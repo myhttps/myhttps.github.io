@@ -32,10 +32,14 @@ body a {
   color: #1a73e8;
 }
 body a[target="_blank"]:after {
-  font-family: 'Material Icons Outlined', serif;
-  content: 'open_in_new';
-  font-size: 12px;
-  margin-left: 2px;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjEzIiBoZWlnaHQ9IjEzIiBmaWxsPSIjMWE3M2U4Ij48cGF0aCBkPSJNMTkgMTlINVY1aDdWM0g1YTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGMxLjEgMCAyLS45IDItMnYtN2gtMnY3ek0xNCAzdjJoMy41OWwtOS44MyA5LjgzIDEuNDEgMS40MUwxOSA2LjQxVjEwaDJWM2gtN3oiLz48cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwaDI0djI0SDBWMHoiLz48L3N2Zz4=);
+  content: '';
+  display: inline-block;
+  height: .8125rem;
+  margin: 0 .1875rem 0 .25rem;
+  position: relative;
+  top: .125rem;
+  width: .8125rem;
 }
 body a:hover {
   text-decoration: underline;
